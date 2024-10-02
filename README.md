@@ -12,7 +12,7 @@
 
 - I built a job-finding website that allows users to search for jobs and also rent houses. I was responsible for creating an intuitive and user-friendly interface. <a href="https://www.di-hp.com" target="_blank">DIHP</a>
 
-- Developed the AIFact website, featuring links to various AI tools. I was responsible for creating a clean, user-friendly interface to provide easy access to AI resources. <a href="faisal163.github.io/aifact/index.html" target="_blank">AIFact</a>
+- Developed the AIFact website, featuring links to various AI tools. I was responsible for creating a clean, user-friendly interface to provide easy access to AI resources. <a href="faisal-official.github.io/aifact" target="_blank">AIFact</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://www.faisalcreations.me" target="_blank">Muhammad Faisal</a>
  
