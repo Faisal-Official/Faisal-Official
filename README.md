@@ -14,15 +14,15 @@
 
 - Developed the AIFact website, featuring links to various AI tools. I was responsible for creating a clean, user-friendly interface to provide easy access to AI resources. <a href="https://faisalcreations.github.io/aifact" target="_blank">AIFact</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.faisalcreations.me" target="_blank">Muhammad Faisal</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.fwsp.me" target="_blank">Muhammad Faisal</a>
  
 - 📫 How to reach me **mfs0300@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faisalcreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalcreations" height="30" width="40" /></a>
-<a href="https://fb.com/faisalcreations001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faisalcreations001" height="30" width="40" /></a>
-<a href="https://instagram.com/faisalcreations001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal_creations" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fwsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fwsp" height="30" width="40" /></a>
+<a href="https://fb.com/fwsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fwsp" height="30" width="40" /></a>
+<a href="https://instagram.com/fwsp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fwsp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
